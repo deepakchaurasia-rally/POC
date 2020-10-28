@@ -1,4 +1,9 @@
 Execute
-1. BE --> play-scala-seed --- execute sbt run -- application will run locally on port 9000
+1. BE --> play-scala-seed --- execute sbt run
 
 2. FE --- npm install ---> npm start 
+
+URL: http://localhost:3000
+
+
+Scala should be pre install on machine
