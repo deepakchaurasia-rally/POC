@@ -5,8 +5,7 @@ Execute
 
 URL: http://localhost:3000
 
-You might need to change postgres port number in application.conf
-replace it with your machine postgres port number
+You might need to change postgres port number in application.conf along with postgres configuration as per your machine
 
 
 Scala should be pre install on machine
