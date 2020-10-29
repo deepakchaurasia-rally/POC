@@ -8,15 +8,21 @@ interface SearchResultProps {
   className?: string;
   doctorList: Array<Doctor> | undefined;
   isLoading: boolean;
+  filter: string;
 }
 
 const SearchResult: FC<SearchResultProps> = (props): JSX.Element => {
-  const { className, doctorList, isLoading } = props;
+  const { className, doctorList = [], isLoading, filter } = props;
+
+  const filteredData = filter
+    ? doctorList
+      .filter(({ firstName, lastName }) => firstName.toLowerCase().indexOf(filter.toLowerCase()) !== -1 || lastName.toLowerCase().indexOf(filter.toLowerCase()) !== -1)
+    : doctorList;
 
   return (
     <div className={className}>
       <ul>
-        {doctorList?.length ? doctorList?.map((doctor: Doctor, idx: number) => {
+        {filteredData?.length ? filteredData?.map((doctor: Doctor, idx: number) => {
           const { firstName, lastName, specialist, address, phoneNo, designation } = doctor;
           return (
             <li key={`${idx}-${doctor.specialist}`}>

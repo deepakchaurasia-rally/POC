@@ -12,12 +12,17 @@ const HCPSearch: FC<Props> = (props): JSX.Element => {
   const { className } = props;
   const [doctorsList, setDoctors] = useState<Array<Doctor>>([]);
   const [isLoading, setLoading] = useState(false);
+  const [searchQuery, setSearchQuery] = useState('');
 
   const getMeDoctors = () => {
     setLoading(true);
     getDoctorsDetail().then((data: any): void => {
       setDoctors(data);
     })
+  }
+
+  const onFilter = (event: any) => {
+    setSearchQuery(event.target.value);
   }
 
   return (
@@ -28,10 +33,10 @@ const HCPSearch: FC<Props> = (props): JSX.Element => {
       </div>
       <h2>Who are you looking for?</h2>
       <div className="src-wrpr">
-        <Input placeholder={'Search for health care providers...'} />
-        <Button label={'Search'} onClick={getMeDoctors} />
+        <Input placeholder={'Search for health care providers...'} onChange={onFilter} />
+        < Button label={'Search'} onClick={getMeDoctors} />
       </div>
-      <SearchResult doctorList={doctorsList} isLoading={isLoading} />
+      <SearchResult doctorList={doctorsList} isLoading={isLoading} filter={searchQuery} />
     </div>
   )
 }
