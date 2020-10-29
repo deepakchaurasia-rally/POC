@@ -17,13 +17,13 @@ class DoctorRepository @Inject() (dbConfigProvider: DatabaseConfigProvider)(impl
 
   private class DoctorTable(tag: Tag) extends Table[Doctor](tag, "doctor") {
 
-    def firstName = column[String]("firstName")
-    def lastName = column[String]("lastName")
+    def firstName = column[String]("first_name")
+    def lastName = column[String]("last_name")
     def specialist = column[String]("specialist")
     def address = column[String]("address")
     def designation = column[String]("designation")
 
-    def phoneNo = column[Long]("phoneNo")
+    def phoneNo = column[Long]("phone_no")
 
     def * = (firstName, lastName, specialist, address, designation, phoneNo) <> ((Doctor.apply _).tupled, Doctor.unapply)
   }
@@ -31,10 +31,8 @@ class DoctorRepository @Inject() (dbConfigProvider: DatabaseConfigProvider)(impl
   private val doctorTable = TableQuery[DoctorTable]
 
   def createSchemaIfNotExists(): Future[Unit] = {
-    val setup = DBIO.seq(
-      doctorTable ++= Doctor.listDoctors()
-    )
-    db.run(setup)
+    val insert_action = DBIO.seq(doctorTable ++= Doctor.listDoctors())
+    db.run(insert_action)
   }
   
   def list(): Future[Seq[Doctor]] = db.run {

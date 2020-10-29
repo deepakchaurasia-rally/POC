@@ -1,5 +1,5 @@
-import { css } from 'styled-components';
-import { COLORS } from '../../utils/constants'
+import { css } from "styled-components";
+import { COLORS } from "../../utils/constants";
 
 export default css`
   padding: 4rem;
@@ -12,6 +12,10 @@ export default css`
   }
 
   ul {
+    .helper-text {
+      text-align: center;
+    }
+
     .doc-info-wrpr {
       display: flex;
       justify-content: space-between;
@@ -19,9 +23,9 @@ export default css`
         display: flex;
 
         .doc-detail {
-        display: flex;
-        flex-direction: column;
-        margin-left: 1.5rem;
+          display: flex;
+          flex-direction: column;
+          margin-left: 1.5rem;
 
           > span {
             line-height: 1.5rem;
@@ -33,7 +37,6 @@ export default css`
           }
         }
       }
-      
 
       .doc-preference {
         display: flex;
@@ -43,8 +46,7 @@ export default css`
         margin-right: 3rem;
       }
     }
-    
-    
+
     a {
       color: ${COLORS.BASE_COLOR};
     }

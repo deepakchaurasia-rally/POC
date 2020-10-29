@@ -11,8 +11,10 @@ import { Props, Doctor } from './HCPSearchType';
 const HCPSearch: FC<Props> = (props): JSX.Element => {
   const { className } = props;
   const [doctorsList, setDoctors] = useState<Array<Doctor>>([]);
+  const [isLoading, setLoading] = useState(false);
 
   const getMeDoctors = () => {
+    setLoading(true);
     getDoctorsDetail().then((data: any): void => {
       setDoctors(data);
     })
@@ -29,7 +31,7 @@ const HCPSearch: FC<Props> = (props): JSX.Element => {
         <Input placeholder={'Search for health care providers...'} />
         <Button label={'Search'} onClick={getMeDoctors} />
       </div>
-      <SearchResult doctorList={doctorsList} />
+      <SearchResult doctorList={doctorsList} isLoading={isLoading} />
     </div>
   )
 }

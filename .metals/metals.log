@@ -149,3 +149,910 @@ INFO: Unsupported notification method: $/setTraceNotification
 2020.09.15 17:45:09 INFO  time: initialize in 0.32s
 2020.09.15 17:45:09 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
 2020.09.16 13:25:40 INFO  shutting down Metals
+2020.10.28 16:16:49 INFO  started: Metals version 0.9.4 in workspace '/Users/dchauras/Documents/POC' for client vscode.
+2020.10.28 16:16:49 INFO  time: initialize in 0.3s
+2020.10.28 16:16:50 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 16:16:51 INFO  no build target: using presentation compiler with only scala-library
+2020.10.28 16:19:04 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/schema/InitialData.scala
+2020.10.28 16:19:08 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/schema/DBCreation.scala
+2020.10.28 16:19:10 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/schema/ConferenceSchema.scala
+2020.10.28 16:19:14 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Person.scala
+2020.10.28 16:19:15 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/PersonRepository.scala
+2020.10.28 16:19:20 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/PersonController.scala
+2020.10.28 16:23:15 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/PersonRepository.scala
+2020.10.28 16:23:19 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Person.scala
+2020.10.28 16:23:21 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/PersonController.scala
+2020.10.28 16:23:56 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 16:23:58 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Person.scala
+2020.10.28 16:24:03 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 16:24:03 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 16:29:00 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 16:29:09 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Person.scala
+2020.10.28 16:29:09 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/PersonRepository.scala
+2020.10.28 16:32:20 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/PersonRepository.scala
+2020.10.28 16:32:28 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepo.scala
+2020.10.28 16:33:06 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepo.scala
+2020.10.28 16:33:15 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 16:33:18 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepo.scala
+2020.10.28 16:33:19 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 16:33:21 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepo.scala
+2020.10.28 16:33:26 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 16:33:27 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepo.scala
+2020.10.28 16:33:36 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepo.scala
+2020.10.28 16:33:42 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepo.scala
+2020.10.28 16:33:48 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepo.scala
+2020.10.28 16:33:53 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepo.scala
+2020.10.28 16:34:00 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 16:34:02 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepo.scala
+2020.10.28 16:34:09 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 16:34:11 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepo.scala
+2020.10.28 16:34:11 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 16:34:13 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepo.scala
+2020.10.28 16:34:13 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 16:34:16 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepo.scala
+2020.10.28 16:34:18 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 16:34:21 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepo.scala
+2020.10.28 16:34:27 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepo.scala
+2020.10.28 16:34:35 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepo.scala
+2020.10.28 16:34:38 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepo.scala
+2020.10.28 16:34:38 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepo.scala
+2020.10.28 16:34:41 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepo.scala
+2020.10.28 16:34:46 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepo.scala
+2020.10.28 16:34:51 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepo.scala
+2020.10.28 16:34:53 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepo.scala
+2020.10.28 16:34:59 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepo.scala
+2020.10.28 16:35:02 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepo.scala
+2020.10.28 16:35:03 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepo.scala
+2020.10.28 16:35:05 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepo.scala
+2020.10.28 16:35:07 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepo.scala
+2020.10.28 16:35:07 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 16:35:17 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepo.scala
+2020.10.28 16:35:36 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepo.scala
+2020.10.28 16:35:39 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 16:35:39 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 16:35:42 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepo.scala
+2020.10.28 16:35:47 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 16:35:49 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepo.scala
+2020.10.28 16:35:49 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepo.scala
+2020.10.28 16:35:49 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepo.scala
+2020.10.28 16:36:03 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Person.scala
+2020.10.28 16:36:09 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 16:36:40 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 16:36:54 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 16:36:57 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 16:36:59 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 16:37:08 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 16:37:09 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 16:37:19 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 16:37:19 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 16:37:28 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 16:37:30 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 16:37:36 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 16:37:39 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 16:37:39 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 16:37:48 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 16:37:48 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 16:37:48 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 16:37:51 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 16:37:51 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 16:37:51 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 16:37:51 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 16:37:53 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 16:37:53 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 16:37:54 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 16:37:54 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 16:37:54 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 16:37:58 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 16:38:04 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 16:38:04 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 16:38:04 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 16:38:09 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 16:38:11 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 16:38:11 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 16:38:11 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 16:38:11 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 16:38:33 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 16:38:34 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 16:38:34 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 16:38:38 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 16:38:38 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 16:38:38 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 16:38:38 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 16:38:45 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 16:38:45 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 16:38:45 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 16:38:45 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 16:38:52 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 16:38:54 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 16:38:54 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 16:38:55 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 16:39:06 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 16:39:06 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 16:39:06 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 16:39:14 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/schema/ConferenceSchema.scala
+2020.10.28 16:39:16 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/schema/DBCreation.scala
+2020.10.28 16:39:16 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/schema/InitialData.scala
+2020.10.28 16:39:17 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/schema/DBCreation.scala
+2020.10.28 16:39:22 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/schema/ConferenceSchema.scala
+2020.10.28 16:39:23 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/schema/DBCreation.scala
+2020.10.28 16:39:24 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/schema/InitialData.scala
+2020.10.28 16:39:36 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/schema_practise/InitialData.scala
+2020.10.28 16:45:56 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 16:46:15 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 16:46:17 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 16:46:17 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 16:46:17 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 16:46:17 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 16:46:17 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 16:46:17 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:02:04 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:02:04 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:02:23 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:02:28 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:02:28 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:02:28 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:02:28 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:02:32 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:02:32 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:02:32 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:02:32 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:02:33 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:02:33 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:02:33 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:02:33 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:02:48 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:02:53 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:02:57 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:03:48 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:03:48 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:03:48 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:03:58 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:03:59 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:03:59 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:03:59 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:03:59 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:04:21 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:04:24 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:04:25 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:04:25 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:04:25 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:04:25 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:04:39 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:04:39 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:04:39 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:04:40 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:04:42 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:07:12 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:07:55 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:08:00 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:08:04 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:08:11 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:08:11 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:08:17 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:08:22 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:08:22 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:08:26 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:08:26 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:08:26 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:08:36 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:08:47 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:08:54 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:08:56 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:08:59 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:09:03 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:09:05 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:09:09 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:09:14 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:09:20 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:09:20 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:09:20 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:09:21 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:09:27 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:09:27 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:09:27 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:09:27 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:10:27 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:10:28 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:10:30 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:10:33 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:10:34 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:10:36 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:10:38 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:10:38 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:10:40 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:10:40 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:10:40 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:10:47 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:10:47 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:10:47 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:10:48 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:10:48 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:10:53 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:10:53 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:10:53 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:11:07 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:11:09 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:11:11 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:11:11 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:11:11 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:11:11 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:11:11 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:11:12 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:11:19 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:11:19 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:11:19 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:11:19 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:11:21 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:11:43 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:11:48 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:11:57 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:12:02 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:12:03 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:12:14 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:12:14 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:12:14 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:12:14 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:12:22 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:12:22 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:12:25 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:12:25 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:12:26 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:12:31 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:12:31 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:12:42 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:12:42 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:12:42 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:12:46 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:12:46 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:12:46 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:12:46 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:12:46 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:12:46 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:12:47 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:12:47 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:13:03 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:13:03 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:13:03 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:13:03 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:13:03 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:13:05 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:13:05 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:13:05 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:14:00 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/schema_practise/InitialData.scala
+2020.10.28 17:14:00 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/schema_practise/DBCreation.scala
+2020.10.28 17:14:12 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:14:13 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:14:13 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:14:13 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:14:34 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:14:34 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:14:38 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:14:40 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:14:42 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:14:43 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:14:48 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:14:53 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:15:00 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:15:02 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:15:02 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:15:13 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:15:28 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:15:33 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:15:39 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:15:41 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:15:41 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:15:41 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:15:41 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:15:41 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:15:41 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:15:42 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:15:42 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:15:42 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:15:42 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:16:17 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:16:25 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:16:25 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:16:25 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:16:25 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:16:45 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/schema_practise/InitialData.scala
+2020.10.28 17:16:52 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/schema_practise/ConferenceSchema.scala
+2020.10.28 17:17:51 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:17:51 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:18:14 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:18:14 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:18:16 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:18:16 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:18:35 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/schema_practise/DBCreation.scala
+2020.10.28 17:19:05 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:19:05 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:19:05 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:19:09 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:19:09 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:19:09 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:19:09 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:19:18 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:19:23 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:19:25 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:19:25 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:19:25 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:19:25 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:19:25 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:19:25 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:19:27 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:19:27 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:19:27 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:19:27 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:19:27 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:19:27 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:19:28 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:19:28 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:19:28 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:19:28 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:19:29 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:19:29 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:19:29 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:19:29 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:19:29 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:19:34 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:19:40 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:19:40 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:19:40 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:19:42 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:19:44 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:19:45 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:19:47 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:19:47 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:19:47 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:19:49 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:19:56 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:19:58 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:20:01 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:20:01 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:20:01 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:20:01 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:20:47 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:20:49 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:20:49 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:20:49 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:20:50 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:20:50 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:20:52 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:20:52 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:20:52 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:20:59 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:20:59 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:20:59 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:21:00 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:21:19 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/schema_practise/InitialData.scala
+2020.10.28 17:21:19 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/schema_practise/DBCreation.scala
+2020.10.28 17:21:29 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/schema_practise/ConferenceSchema.scala
+2020.10.28 17:21:46 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/schema_practise/DBCreation.scala
+2020.10.28 17:21:46 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/schema_practise/InitialData.scala
+2020.10.28 17:22:25 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/schema_practise/ConferenceSchema.scala
+2020.10.28 17:24:09 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:24:35 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:24:35 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:24:35 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:24:35 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:24:35 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:24:35 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:24:49 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:24:49 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:24:49 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:24:49 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:24:49 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:24:49 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:24:50 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:24:58 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:25:00 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:25:03 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:25:03 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:25:20 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:25:21 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:25:22 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:25:22 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:25:23 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:25:25 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:25:26 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:25:28 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:25:32 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:25:32 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:25:32 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:28:02 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:28:10 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:28:16 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:28:21 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:28:21 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:28:30 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:28:30 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:28:30 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:28:36 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:28:39 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:28:41 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:28:41 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:28:41 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:28:41 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:28:41 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:28:42 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:28:42 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:29:36 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:30:49 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:30:52 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:30:53 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:30:53 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:31:01 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:31:02 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:31:03 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:31:06 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:31:06 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:31:07 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:31:07 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:31:07 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:31:08 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:31:08 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:32:10 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:32:10 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:32:10 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:32:10 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:32:10 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:33:33 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:33:33 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:33:33 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:33:33 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:34:11 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:34:11 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:34:11 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:34:11 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/Doctor.scala
+2020.10.28 17:34:41 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:34:43 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:34:45 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:34:48 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:34:51 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:34:52 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:34:54 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:34:54 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:34:54 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:34:55 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:34:55 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:34:58 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:34:58 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:34:58 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:34:58 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:34:59 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:34:59 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:34:59 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:34:59 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:34:59 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:35:01 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:35:01 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 17:35:09 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:35:14 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:35:41 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:35:44 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:35:44 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:35:44 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:35:44 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:38:42 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:38:43 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:38:46 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:38:48 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:38:48 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:38:51 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:38:51 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:38:51 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:38:51 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:38:51 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:42:34 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:42:37 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:42:43 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:42:43 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:42:44 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:42:44 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:42:44 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:42:44 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:42:46 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:42:46 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:42:46 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:42:53 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:42:53 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:42:53 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:42:58 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:42:58 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:43:00 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:43:00 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:43:00 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:43:00 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:43:07 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:45:31 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:45:33 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:45:33 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:45:37 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:45:44 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:45:44 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:45:45 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:45:45 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:45:45 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:45:45 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:45:45 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:45:46 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:45:46 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:45:52 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:45:52 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:45:54 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:45:54 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:46:50 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:46:52 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:46:53 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:46:57 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:46:57 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:46:57 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:47:47 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:47:47 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:48:29 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:48:29 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:48:29 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:48:29 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:50:01 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:50:01 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:50:01 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:50:02 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:50:02 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:50:02 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:50:02 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:50:02 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:50:02 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:50:02 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:50:20 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:50:20 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:50:20 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:50:20 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:50:20 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:50:20 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:51:19 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:51:20 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:51:30 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:51:31 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:51:31 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:51:31 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:51:31 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:51:34 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:51:37 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:51:37 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:51:37 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:51:47 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:51:49 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:51:49 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:51:52 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:51:52 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:51:52 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:52:03 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:52:10 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:52:10 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:52:12 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:52:12 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:52:12 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:52:12 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:52:12 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:52:23 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:52:23 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 17:52:24 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:52:24 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:52:27 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:52:27 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:52:27 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:52:27 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:53:50 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:53:50 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:53:50 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:53:50 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:53:51 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:53:51 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:55:48 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:55:50 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:55:50 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:58:22 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:58:25 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:58:27 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:58:27 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:58:27 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:58:44 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:58:44 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:58:46 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:58:55 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 17:58:55 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:00:06 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:00:07 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 18:00:14 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:00:14 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:00:14 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:00:14 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:00:16 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:00:16 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:00:33 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:00:33 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:00:33 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:00:33 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:00:33 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:00:47 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 18:01:33 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:01:33 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:01:33 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:01:33 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:01:35 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:01:35 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:01:38 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:01:38 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:01:38 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 18:01:38 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:01:38 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:01:57 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:01:57 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:01:57 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:01:58 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:01:58 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:01:58 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:02:39 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 18:02:40 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 18:02:40 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 18:02:40 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 18:02:40 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/controllers/DoctorController.scala
+2020.10.28 18:06:10 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:06:13 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:06:13 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:06:13 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:06:13 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 18:06:15 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 18:06:15 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 18:06:18 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:06:18 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:06:24 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:06:24 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:06:24 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:06:24 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:06:24 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:06:24 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:06:25 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:06:25 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:06:25 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:06:25 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:07:09 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:07:09 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:07:09 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:07:09 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:07:11 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:07:11 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:07:11 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:07:11 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:08:19 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:08:22 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:08:28 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:08:28 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:08:28 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:08:28 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:08:29 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:10:08 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:10:10 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:10:10 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:10:10 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:10:44 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:10:44 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:10:44 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:18:00 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:18:00 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:18:00 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:18:02 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:18:02 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:19:06 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:19:06 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:19:06 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:19:13 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:19:18 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:19:19 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:19:19 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:19:19 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:19:19 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 18:19:19 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:19:19 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:19:33 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:19:33 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:19:34 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:19:34 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:19:34 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:19:37 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 18:20:17 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/.g8/form/app/controllers/$model__Camel$Controller.scala
+2020.10.28 18:20:56 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:20:56 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:20:56 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:20:59 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 18:20:59 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:20:59 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:20:59 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:26:03 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:26:04 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:26:04 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:26:04 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:26:09 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:26:09 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:26:09 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:26:15 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:26:18 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:26:20 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:26:22 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:26:22 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:26:22 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:26:35 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:26:35 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:26:35 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:26:38 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:26:38 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:26:38 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 18:26:47 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 18:26:51 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:26:51 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:26:51 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:26:51 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:26:51 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:31:23 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 18:31:37 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:31:41 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:31:41 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:31:41 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:31:41 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:31:41 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:31:42 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:31:42 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:32:07 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:32:07 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:32:07 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 18:32:07 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:32:07 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:32:15 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 18:32:15 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 18:33:40 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 18:33:40 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:33:45 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 18:33:46 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:33:46 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:33:56 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:34:02 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:34:05 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:34:05 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:34:10 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:34:11 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:34:16 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:34:19 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:34:21 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:34:21 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:34:21 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 18:34:21 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 18:34:21 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:34:21 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 18:34:23 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 18:34:23 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 18:34:23 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:34:23 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:34:23 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 18:34:23 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:34:23 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:34:41 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:34:41 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:34:41 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:34:41 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:34:41 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:36:50 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:36:52 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 18:36:52 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:36:52 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:36:58 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:36:58 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:36:58 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:37:07 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:37:07 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:37:07 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:37:07 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:37:07 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:37:08 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:37:08 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:37:08 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:37:11 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:37:11 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:37:11 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:37:11 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:38:33 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:38:43 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:38:48 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:38:49 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:38:52 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:38:52 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:38:52 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:38:53 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:38:53 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:38:53 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:38:53 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:38:53 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:39:12 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:39:20 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:39:20 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:39:20 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:39:20 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:39:20 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:39:34 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:39:35 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:39:35 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:39:35 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 18:39:37 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 18:39:47 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:39:47 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:39:47 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:39:47 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:39:48 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:39:48 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:39:48 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:39:48 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:42:10 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:42:20 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:42:22 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:42:22 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:42:24 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:42:34 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:42:34 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:42:34 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:42:45 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:42:45 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 18:43:01 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:43:01 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:43:02 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 18:43:02 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:43:02 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:43:14 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 18:43:16 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:43:27 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:43:30 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:43:38 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:43:39 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:43:39 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:43:47 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:43:51 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:43:53 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:43:54 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:43:56 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:43:56 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:43:56 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:43:56 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:43:56 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:44:17 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:44:17 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:44:17 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:44:17 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:44:18 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:44:18 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:44:53 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:44:53 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 18:44:54 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:44:54 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:44:54 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:44:54 WARN  no build tool detected in workspace '/Users/dchauras/Documents/POC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.28 18:44:54 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:44:55 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:44:55 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:44:55 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:44:55 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:44:58 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:44:58 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:44:58 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:44:58 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:44:58 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:45:15 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:45:18 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:45:21 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:45:23 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:45:23 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:45:23 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:45:29 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:45:29 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:45:29 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:45:29 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+2020.10.28 18:45:29 WARN  no build target for: /Users/dchauras/Documents/POC/BE/play-scala-seed/app/models/DoctorRepository.scala
+Oct 29, 2020 11:53:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6602
+2020.10.29 11:53:22 INFO  shutting down Metals

@@ -1,18 +1,22 @@
-#
---- !Ups
+#--- !Ups
 
-create table "doctor"
-(
-  "firstName" varchar not null,
-  "lastName" varchar not null,
-  "specialist" varchar not null,
-  "address" varchar not null,
-  "designation" varchar not null,
-  "phoneNo" int not null
+CREATE TABLE doctor(
+  first_name VARCHAR,
+  last_name VARCHAR,
+  specialist VARCHAR,
+  address VARCHAR,
+  designation VARCHAR,
+  phone_no bigint
 );
 
-#
---- !Downs
+INSERT INTO doctor (first_name, last_name, specialist, address, designation, phone_no) VALUES ('Deepak', 'Chaurasia', 'ENT', 'Noida', 'MD', 8130440808);
+INSERT INTO doctor (first_name, last_name, specialist, address, designation, phone_no) VALUES ('Deepak', 'Chaurasia', 'ENT', 'Noida', 'MD', 8130440808);
+INSERT INTO doctor (first_name, last_name, specialist, address, designation, phone_no) VALUES ('Deepak', 'Chaurasia', 'ENT', 'Noida', 'MD', 8130440808);
+INSERT INTO doctor (first_name, last_name, specialist, address, designation, phone_no) VALUES ('Deepak', 'Chaurasia', 'ENT', 'Noida', 'MD', 8130440808);
+INSERT INTO doctor (first_name, last_name, specialist, address, designation, phone_no) VALUES ('Deepak', 'Chaurasia', 'ENT', 'Noida', 'MD', 8130440808);
+INSERT INTO doctor (first_name, last_name, specialist, address, designation, phone_no) VALUES ('Deepak', 'Chaurasia', 'ENT', 'Noida', 'MD', 8130440808);
+INSERT INTO doctor (first_name, last_name, specialist, address, designation, phone_no) VALUES ('Deepak', 'Chaurasia', 'ENT', 'Noida', 'MD', 8130440808);
+INSERT INTO doctor (first_name, last_name, specialist, address, designation, phone_no) VALUES ('Deepak', 'Chaurasia', 'ENT', 'Noida', 'MD', 8130440808);
 
-drop table "doctor"
-if exists;
+#--- !Downs
+DROP TABLE doctor;

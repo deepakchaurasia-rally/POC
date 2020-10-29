@@ -7,11 +7,12 @@ import { Doctor } from '../HCPSearch/HCPSearchType';
 interface SearchResultProps {
   className?: string;
   doctorList: Array<Doctor> | undefined;
+  isLoading: boolean;
 }
 
 const SearchResult: FC<SearchResultProps> = (props): JSX.Element => {
-  const { className, doctorList } = props;
-  
+  const { className, doctorList, isLoading } = props;
+
   return (
     <div className={className}>
       <ul>
@@ -42,7 +43,7 @@ const SearchResult: FC<SearchResultProps> = (props): JSX.Element => {
               </div>
             </li>
           )
-        }): <p>Please click on Search to fetch Doctors</p>}
+        }) : isLoading ? <p className='helper-text'>Loading Result Please Wait...</p> : <p className='helper-text'>Please click on Search to fetch Doctors</p>}
       </ul>
     </div>
   )
